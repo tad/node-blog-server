@@ -1,0 +1,16 @@
+[
+  {
+    id: 1, // Unique ID per post
+    title: 'A blog title',
+    date: '1/1/2016',
+    body: 'This is the content for my post.',
+    tags: ['several', 'tags', 'for my', 'blog']
+  },
+  {
+    id: 2,
+    title: 'Another blog title',
+    date: '1/2/2016',
+    body: 'This is the content for another post.',
+    tags: ['more', 'tags go', 'here', 'tags', 'blog']
+  }
+]
